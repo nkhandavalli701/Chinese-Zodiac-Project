@@ -1,0 +1,28 @@
+body{
+  font-family:serif;
+  font-size: 30px;
+  height: 100%;
+  color: white;
+
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.myDiv {
+  text-align: center;
+}
+.pics{
+  align-content: center;
+
+}
+.ntext{
+  width:250px;
+  height: 30px;
+}
+.nbutton{
+  width:125px;
+  font-size: 20px;
+  height: 30px;
+}
